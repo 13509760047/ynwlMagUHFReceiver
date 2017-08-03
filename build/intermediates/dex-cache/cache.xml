@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\libs\androidwpx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5a0ebbf7c5d2d1ccc3dad0792ec5661f4848ba3">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\build\intermediates\pre-dexed\debug\androidwpx_8c30467cd59cb48c3d2f9430eb5fa5d8748d5468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\libs\androidwpxtools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cacf7b57fb4c348e3aa0c76d403ede7c9442b7a">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\build\intermediates\pre-dexed\debug\androidwpxtools_554560492a0e98c1c883960f6b45756e922e1b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\build\intermediates\pre-dexed\debug\android-support-v4_ed523568108ac8f7d48b324cdf1c60b2c6601d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="C:\Users\Administrator\Desktop\dxl\MagicUHF_Receiver\build\intermediates\pre-dexed\debug\volley_9d2d1891426030ebed0948afc054c7706a927a42.jar" />
+    </item>
+
+</items>

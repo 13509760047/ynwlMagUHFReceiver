@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\build\\intermediates\\res\\merged\\debug\\raw\\beep_err.wav",
+        "source": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\res\\raw\\beep_err.wav"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\build\\intermediates\\res\\merged\\debug\\raw\\didi.ogg",
+        "source": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\res\\raw\\didi.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\build\\intermediates\\res\\merged\\debug\\raw\\beep_ok.wav",
+        "source": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\res\\raw\\beep_ok.wav"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\build\\intermediates\\res\\merged\\debug\\raw\\dudu.ogg",
+        "source": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\res\\raw\\dudu.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\build\\intermediates\\res\\merged\\debug\\raw\\chimes.wav",
+        "source": "C:\\Users\\Administrator\\Desktop\\dxl\\MagicUHF_Receiver\\res\\raw\\chimes.wav"
+    }
+]
